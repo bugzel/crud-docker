@@ -1,6 +1,0 @@
-services:
-  crud:
-    build: .
-    image: przemekbugzel/crud:crud
-    ports:
-      - "7070:7070"
